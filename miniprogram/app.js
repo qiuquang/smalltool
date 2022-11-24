@@ -1,4 +1,4 @@
-// 引入SDK核心类
+// 引入SDK核心类12
 var QQMapWX = require('./libs/qqmap-wx-jssdk.min')
  
 // 实例化API核心类
